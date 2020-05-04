@@ -1,6 +1,6 @@
 ﻿[QUESTS]
-q_xmas1_objective2="Returned to Tinka"
-q_xmas1_objective1="Tinka's Workshop cleansed"
+q_xmas1_objective2="Revenir auprès de Tinka"
+q_xmas1_objective1="Atelier de Tinka nettoyé"
 q_xmas1_text2="I've destroyed the source of the corruption, and I should return to $Tinka¥ for a reward."
 q_xmas1_text1="$Tinka¥ has once again experimented with the dimensions of The Chronicon. Something's gone wrong in his Workshop, and he wants me to go there and take care of it."
 q_xmas1_nm="'Tis The Season"
