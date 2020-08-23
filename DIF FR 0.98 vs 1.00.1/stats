@@ -137,5 +137,6 @@ stat_sect_defense="*Défense*"
 stat_sect_utility="*Utilitaires*"
 stat_sect_class="*Statistiques de classe*"
 stat_sect_misc="*Divers*"
+stats="Stats"
 [STAT MISC]
 stat_misc_sec="/sec"
