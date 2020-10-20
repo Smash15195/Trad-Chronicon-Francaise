@@ -1,21 +1,21 @@
-Players cannot lose control of their character other than being pushed/pulled, or slowed/immobilized.
-Enemies can be stunned, feared, frozen, and interrupted in addition to the above effects.
-Sturdy foes and Bosses generally resist these effects.
-@Knockback: 
-Knocks foes away, while being knocked they do not attempt to attack, unless they were already animating an attack.
-@Pull: 
-The reverse of Knockback, same rules apply.
-@Slow/Immobilize: 
-Slows movement by a percentage, immobilization is a slow effect of 100%. 
-@Chilled/Frozen:
-Technically same as slow and immobilize, only it usually has some additional frost-based mechanics.
-@Stun: 
-Prevents any actions form being taken and pauses all cooldown timers for the duration of the stun. Repeated stuns have diminishing returns!
-@Interrupt: 
-Interrupts an attack animation and puts the interrupted ability back on maximum cooldown.
-@Fear: 
-Causes the enemy to run around erratically, but direct damage may cancel the effect.
-@Bleed:
-Other than dealing damage, bleed effects also prevent health regeneration of enemies.
-@Burn:
-Other than dealing damage, Burn from all types of effects will spread between enemies, companions, and players in co-op. They spread once per damage tick to a random target within 1.8 meters. The spread burn only has 80% efficiency and only affects non-burning targets, so it does not refresh nor spread infinitely.
+Les joueurs ne peuvent pas perdre le contrôle de leur personnage autrement qu'en étant poussés/tirés, ou ralentis/immobilisés.
+Les ennemis peuvent être étourdis, effrayés, gelés et interrompus en plus des effets ci-dessus.
+Les ennemis robustes et les Boss résistent généralement à ces effets.
+@Contrecoup: 
+Les ennemis sont repoussés, et lorsqu'ils sont frappés, ils ne tentent pas d'attaquer, à moins qu'ils n'aient déjà animé une attaque.
+@Tirer: 
+L'inverse du Contrecoup, les mêmes règles s'appliquent.
+@Ralentir/immobiliser : 
+Le mouvement est ralenti d'un pourcentage, l'immobilisation est un effet de lenteur de 100%. 
+@Réfrigéré/Gelé:
+Techniquement, c'est la même chose que "ralentir et immobiliser", sauf qu'elle a généralement une mécanique supplémentaire basée sur le gel.
+@Étourdir: 
+Empêche toute forme d'action et met en pause tous les temps de recharge pendant la durée de l'étourdissement. Les étourdissements répétés ont des rendements décroissants !
+@Interruption: 
+Interrompt une animation d'attaque et remet la capacité interrompue à son maximum de temps de rechargement.
+@Frayeur: 
+Fait courir l'ennemi de façon erratique, mais les dégâts directs peuvent annuler l'effet.
+@Saignement:
+En plus de causer des dégâts, les effets de saignement empêchent également la régénération de la santé des ennemis.
+@Brulure:
+Outre les dégâts qu'elle inflige, la brûlure due à tous les types d'effets se propage entre les ennemis, les compagnons et les joueurs en coopération. Elles se propagent une fois par tick de dégâts à une cible aléatoire dans un rayon de 1,8 mètres. La brûlure propagée n'a qu'une efficacité de 80 % et n'affecte que les cibles non brûlantes, elle ne se rafraîchit donc pas et ne se propage pas à l'infini.
