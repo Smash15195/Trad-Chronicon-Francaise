@@ -1,19 +1,19 @@
-@How do I play Multiplayer?
-Simply click Multiplayer on the main menu and have your friend(s) hit "A" on their gamepads. 
-This works over Steam Remote Play Together too!
-@Can I play online or via LAN?
-Only via Steam Remote Play Together.
-@How many gamepads do I need for multiplayer?
-One per additional person, as player one may use keyboard & mouse. Player one can change to gamepad from the Options menu, or by using it to navigate the main menu.
-@How many friends can I play with in multiplayer?
-Up to 3, making a total of 4 players.
-@Can I use my singleplayer character in multiplayer games?
-Yes. Though it is recommended you use a specific character for multiplayer and one for singleplayer, to stay synced with your friends. But you're free to do as you wish.
-@Can several players use the same character?
-No. This would cause problems with saving as everyone would have different items on them, different skills assigned, etc.
-@If I complete a quest in singleplayer, can I do it in multiplayer, and vice versa?
-No, a completed quest will remain completed through both modes. Bear this in mind when playing with characters with varying progress, as you might get out of sync with the story line.
-@What happens if I play using characters with a large level gap?
-You're gonna have a bad time. Enemies and loot won't be able to scale properly, so try to use characters within 1-2 levels of each other.
-@Is experience points shared in multiplayer?
-Everybody gets the same amount of experience points and it isn't in any way lowered with more players. This applies to both quests and kills. Do note that the player has to be alive to gain experience. The only thing that may affect your experience gain is the level difference between players and monsters, and potential "bonus experience" stat modifiers on equipment.
+@Comment jouer au multijoueur ?
+Il suffit de cliquer sur Multijoueur dans le menu principal et de demander à vos amis d'appuyer sur "A" sur leur manette de jeu. 
+Cela fonctionne aussi avec Steam Remote Play Together !
+@Puis-je jouer en ligne ou via le réseau local ?
+Uniquement via Steam Remote Play Together.
+@De combien de manettes de jeu ai-je besoin pour le mode multijoueur ?
+Un par personne supplémentaire, en tant que joueur on peut utiliser le clavier et la souris. Le joueur peut passer à la manette de jeu à partir du menu Options, ou en l'utilisant pour naviguer dans le menu principal.
+@Avec combien d'amis puis-je jouer en multijoueur ?
+Jusqu'à 3, soit un total de 4 joueurs.
+@Puis-je utiliser mon personnage solo dans les parties multijoueurs ?
+Oui, mais il est recommandé d'utiliser un personnage spécifique pour le mode multijoueur et un autre pour le mode solo, afin de rester synchronisé avec vos amis. Mais vous êtes libre de faire ce que vous voulez.
+@Plusieurs joueurs peuvent-ils utiliser le même personnage ?
+Non. Cela poserait des problèmes de sauvegarde car chacun aurait des objets différents, des compétences différentes, etc.
+@Si j'effectue une quête en solo, puis-je la faire en multijoueur, et vice versa ?
+Non, une quête achevée restera achevée dans les deux modes. Gardez cela à l'esprit lorsque vous jouez avec des personnages dont la progression est variable, car vous risquez de vous désynchroniser avec le scénario.
+@Que se passe-t-il si je joue avec des personnages ayant un grand écart de niveau ?
+Vous allez passer un mauvais moment. Les ennemis et le butin ne pourront pas se mettre à l'échelle correctement, alors essayez d'utiliser des personnages situés à un ou deux niveaux de difference.
+@Les points d'expérience sont-ils partagés en multijoueur ?
+Tout le monde obtient le même nombre de points d'expérience et il n'est en aucun cas réduit avec plus de joueurs. Cela s'applique aussi bien aux quêtes qu'aux victimes. Notez que le joueur doit être vivant pour gagner de l'expérience. La seule chose qui peut affecter votre gain d'expérience est la différence de niveau entre les joueurs et les monstres et les éventuels modificateurs de statut "bonus d'expérience" sur l'équipement.
