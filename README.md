@@ -1,23 +1,7 @@
 # Trad Chronicon Française
  Traduction en français du jeu Chronicon
  
- Première étape pour faire fonctionner la traduction.
+Rendez vous simplement dans
+D:\Program Files (x86)\Steam\SteamApps\common\Chronicon\locale
  
- Allez dans  C:\Users\votreprofil\AppData\Local\Chronicon
- 
- Modifiez dans le fichier options.cfg
- 
-[OTHER]
-loc="EN"
-
-par 
-
-[OTHER]
-loc="FR"
-
-Seconde étape :
-
-Placer le dosier FR contenant tout les fichiers de la traduction dans le dossier
-\Steam\SteamApps\common\Chronicon\locale
-
-Lancez votre jeu, il devrait être traduit.
+Collez-y le dossier FR et choisissez dans le menu language du jeu le français
