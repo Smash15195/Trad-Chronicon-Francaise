@@ -34,7 +34,7 @@ Réduit les dégâts provenant de toutes les sources, échelonne de façon multi
 @Évasion
 L'évasion donne une chance d'éviter complètement les dégâts causés par la plupart des coups directs. Elle est principalement utilisée par la Sentinelle et le Sorcier. Elle s'échelonne de façon multiplicative plutôt qu'additive.
 @Étalement des dégâts
-Il s'agit d'une statistique spéciale qui répartit une partie des dégâts reçus sur 3 secondes plutôt qu'instantanément, ce qui vous donne plus de temps pour vous remettre des dégâts. Elle se met à l'échelle de manière multiplicative plutôt qu'additive. Les dégâts échelonnés sont appliqués directement à la santé et ignorent les barrières de protection, etc. Veillez à adapter la régénération de votre santé en conséquence !
+Il s'agit d'une statistique spéciale qui répartit une partie des dégâts reçus sur 3 secondes plutôt qu'instantanément, ce qui vous donne plus de temps pour vous remettre des dégâts. En outre, une réduction des dégâts de base de 30%, de sorte que les dégâts échelonnés dans le temps ne représentent en réalité que 70% du total. Elle se met à l'échelle de manière multiplicative plutôt qu'additive. Les dégâts échelonnés sont appliqués directement à la santé et ignorent les barrières de protection, etc. Veillez à adapter la régénération de votre santé en conséquence !
 @Taux de blocage et dégâts bloqués (Templiers uniquement)
 Ces statistiques indiquent vos chances de bloquer une attaque, et si vous bloquez, combien les dégâts sont atténués. Toute attaque peut être bloquée tant que vous avez un Bouclier équipé !
 @Chance de Coup Critique
