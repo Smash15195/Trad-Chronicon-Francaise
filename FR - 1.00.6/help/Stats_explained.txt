@@ -1,117 +1,117 @@
-@Diminishing Returns
-Some stats have diminishing returns - this means that the more instance you have of the stat, the less it adds up. To clarify with an example: with an additive stat it would look like this: 8%+8%+8% = 24%. With a diminishing stat it would look like this: 1-(0.92 * 0.92 * 0.92) = 22%. The loss is larger the more you add to it. The following stats have diminishing returns:
+@Rendements décroissant
+Certaines statistiques ont des rendements décroissants, ce qui signifie que plus vous avez d'instance de la statistique, moins elle s'additionne. Pour clarifier les choses, prenons un exemple : avec une statistique additive, cela ressemblerait à ceci : 8%+8%+8% = 24%. Avec une statistique décroissante, cela ressemblerait à ceci : 1-(0.92 * 0.92 * 0.92) = 22%. La perte est d'autant plus importante que vous y ajoutez d'instance. Les statistiques suivantes ont des rendements décroissants :
 [list]
-*Damage Reduction
-*Companion Damage Reduction
-*Evasion
-*Cooldown Reduction
-*Mana Cost Reduction
-*Effect Duration
-*Reach
-*Damage Stagger
-*Healing Taken
-*Mana Shield
-*Willpower (negative effect duration)
+*Réduction des dégâts
+*Réduction des dégâts subit par les compagnons
+*Évasion
+*Réduction du temps de rechargement
+*Réduction des coûts de Mana
+*Durée d'effet
+*Portée
+*Étalement des dégâts
+*Soin reçu
+*Bouclier de Mana
+*Volonté (durée des effets négatifs)
 [/list]
-@Health
-How much damage you can take before you die.
+@Santé
+L'ampleur des dégâts que vous pouvez subir avant de mourir.
 @Mana
-This is a resource that is drained when you use skills.
-@Damage
-This is your base damage, elemental bonuses are applied on top of this number.
-@Attack Speed
-This is how fast you will be able to attack. It affects the animation speed of your attacks, so skills with low cooldown can be performed faster. It also allows you to move sooner after attacking, as the animation completes faster.
-@Overpower
-This is a resistance piercing stat. Overpower, like Resistances, only affects direct damage, so Thorns and other effects that do not trigger on-hit effects are unaffacted by both Overpower and enemy resistances. Example: an Overpower value of 50% will ignore 50% of all foes resistances. (Meaning a foe with 30% Fire Resistance will be treated as if having 15%)
-@Reach
-This stat increases the effective range, radius, and distance used by all skills
-@Rage (Berserker Only)
-Rage is a unique stat used by the Berserker. It increases when you take damage, deal damage, and kill foes. Gibbing foes add extra Rage, too! Rage will improve some passive skills and the Berserker's special "Heritage" skills. Rage fades slowly over time.
-@Souls (Warlock only)
-Souls is a unique stat used by the Warlock. You collect Souls by killing foes, and can sacrifice them to activate Utility skills, or hold on to them to empower some passive skills. Souls fade over time!
-@Damage Reduction
-Reduces damage taken from all sources, scales multiplicatively rather than additively.
-@Evasion
-Evasion gives a chance to completely avoid damage from most direct hits. It is primarily used by the Warden and Warlock. Scales multiplicatively rather than additively.
-@Damage Stagger
-This is a special stat that deals some of the damage recieved over 3 seconds rather than instantly, giving you an increased time to recover from damage. Scales multiplicatively rather than additively. The staggered damage is applied directly to health and will ignore any protective barriers etc. Be sure to scale your health regeneration accordingly!
-@Block Rate and Damage Blocked (Templar Only)
-These stats indicate your chance to block an attack, and if you block, how much the damage is reduced. Any attack can be blocked as long as you have a Shield equipped!
-@Critical Hit Chance
-This indicates how high your chance is to score a Critical Hit, dealing extra damage.
-@Critical Hit Damage
-This indicates how much damage your Critical Hits will do in comparison to regular strikes.
-@Movement Speed
-This is how fast you can run.
-@Elemental Damage stats (Physical, Fire, Frost, etc..)
-These stats show how much extra damage you do with skills of certain elements.
-@What is "Ethereal Damage"?
-This is a special damage type typically found on Legendary item special powers. It ignores all enemy resistances and benefits from all your Elemental Damage stats added together. This means it works for almost any character and can be very, very powerful!
-Note: Bleed damage is considered Ethereal in the sense that it's not resistible, although it does not benefit from elemental powers, and has its own scaling stat instead (See Bleed%).
-@Thorns
-This is a special damage stat that is dealt to enemies when they strike you. Thorns is considered to be Physical damage unless otherwise specified. Thorns damage can crit, but is considered indirect damage and does not need Overpower to scale through enemy resistances.
-@Health per second
-How much Health you restore per second
-@Mana per second
-How much Mana you restore per second
-@Health on hit
-How much Health you restore on a hit, minimum. The larger your hit, the more you will restore. Note that Health on hit has a cooldown of 0.1 seconds.
-@Mana on hit
-How much Mana you restore on a hit, minimum. The larger your hit, the more you will restore. Note that Mana on hit has a cooldown of 0.1 seconds.
-@Potion Effectiveness
-How effective your Healing and Mana potions are. Increase this number and they will heal you more!
-@Knockback Chance
-How high your chance is per strike to knock away foes.
-@Resistances (Physical, Fire, Frost, etc.)
-These stats show how much less damage you take from all sources of the matching element. Note that all resistances are capped at 80%.
-@Cooldown Reduction
-How much time is removed from your skill cooldowns. Caps at 90%. Scales multiplicatively rather than additively.
-@Mana Cost Reduction
-How much of the Mana cost is removed from your skill usage. Scales multiplicatively rather than additively.
-@Effect Duration
-How long buffs (positive effects) and spells will last. No cap, but scales multiplicatively rather than additively.
-@Pickup Strength
-This stat affects how much Health- and Mana pickups will heal you.
-@Pickup Radius
-This stat affects the distance of which Health, Mana, and Crystal pickups will be automatically taken. Your companions also use this stat when picking up pickups!
-This stat also increases the range of Radial Loot (default key: Q)
-@Crystals Found
-This stat increases the amount of Crystals you gain from all sources except vendors.
-@Magic Find
-This stat increases the likelihood that you will find more rare items and items fitting your class. It caps off at 999%.
-@Light Radius
-This stat affects the light surrounding your character.
-@Experience Gained
-This stat affects how much Experience you gain from all sources. This affects both regular levels and Mastery levels.
-@Companion Health
-This stat directly increases the Health stat of all your Companions.
-@Companion Damage
-This stat directly affects the Damage stat of all your Companions.
-@Companion Passive and Use Effect
-This stat increases the effect of any passive bonuses granted by companions, such as stat boosts and auras. It also increases the "Use" effect of all companion skills. For example, a companion that has a spell cast listed as its "Use" effect will deal increased damage with that spell proportional to this stat.
-@Burn Damage
-This stat is a special damage stat for items which may cause a Burn damage effect on foes. It is considered Fire damage and is increased by the Fire Damage stat, too. NOTE: This stat does not affect skills which cause Burn effects.
-@Bleed Damage
-This stat is a special damage stat for items which may cause a Bleed damage effect on foes. It is considered Ethereal damage but is NOT improved by any elemental stats. NOTE: This stat does not affect skills which cause Bleeding effects.
-@Bleed% increase / increased effect of Bleed effects
-This is a special scaling stat that affects all types of Bleed effects by increasing their base damage values by a certain percentage.
-@Chill Damage
-This stat is a special damage stat for items which may cause additional Frost damage on foes instantly. It is increased by the Frost damage stat, too. NOTE: This stat does not affect skills which cause Chill effects.
-@Poison DOT Damage
-This stat is a special damage stat for items which may cause a Poison damage effect on foes. It is considered Poison damage and is increased by the Poison Damage stat, too. NOTE: This stat does not affect skills which cause Poison effects.
-@Chain Lightning Damage
-This stat is a special damage stat for items which may cause additional Lightning damage on foes instantly. It is increased by the Lightning damage stat, too.
-@Smite
-This stat is a special damage stat for items which may cause additional Holy damage on foes instantly. It is increased by the Holy damage stat, too.
-@Blight
-This stat is a special damage stat for items which may cause a Shadow damage effect on foes. It is considered Shadow damage and is increased by the Shadow Damage stat, too.
-@Satellite Damage
-Increases the damage of all Satellite type enchants
-@Gem Strength
-Increases the strength of all gems socketed into your equipment
-@Willpower
-Lowers the duration of negative effects on the player, such as damaging debuffs
-@Ground Effect Resistance
-Lowers the damage taken specifically from ground effects, like burning ground, poison pools, and things like that.
-@Indirect Damage Resistance
-Lowers the damage taken from any indirect damage, such as bleeds, burns, poisons, and other debuff effects. This also affects damage taken from Thorns, as Thorns is indirect damage!
+Il s'agit d'une ressource qui s'épuise lorsque vous utilisez des compétences.
+@Dégâts
+Il s'agit de vos dégâts de base, les bonus élémentaires sont appliqués en plus de ce nombre.
+@Vitesse d'attaque
+C'est la vitesse à laquelle vous serez en mesure d'attaquer. Cela affecte la vitesse d'animation de vos attaques, ainsi que les compétences avec un faible rechargement peuvent être exécutées plus rapidement. Cela vous permet également de vous déplacer plus tôt après avoir attaqué, car l'animation se termine plus rapidement.
+@Surpuissance
+Il s'agit d'une statistique de résistance à la pénétration. La Surpuissance, comme les Résistances, n'affecte que les dégâts directs, donc les Épines et autres effets qui ne déclenchent pas d'effets 'sur-frappe' ne sont pas affectés par la Surpuissance et les résistances ennemies. Exemple : une valeur de Surpuissance de 50% ignorera 50% de toutes les résistances de l'ennemi. (Cela signifie qu'un ennemi ayant une résistance au feu de 30% sera traité comme s'il avait 15%).
+@Portée
+Cette statistique augmente la portée effective, le rayon et la distance utilisés par toutes les compétences
+@Rage (Berserker uniquement)
+La rage est une caractéristique unique utilisée par le Berserker. Elle augmente lorsque vous faites des dégâts, infligez des dommages et tuez des ennemis. Les ennemis qui sont charcutés ajoutent aussi de la rage ! La Rage améliorera certaines compétences passives et les compétences spéciales "Héritage" du Berserker. La rage s'estompe lentement avec le temps.
+@Ames (Sorcier uniquement)
+Les âmes est une statistique unique utilisée par le sorcier. Vous collectez des âmes en tuant des ennemis et vous pouvez les sacrifier pour activer des compétences utilitaire ou les conserver pour renforcer certaines compétences passives. Les âmes disparaissent avec le temps !
+@Réduction des dégâts
+Réduit les dégâts provenant de toutes les sources, échelonne de façon multiplicative plutôt qu'additive.
+@Évasion
+L'évasion donne une chance d'éviter complètement les dégâts causés par la plupart des coups directs. Elle est principalement utilisée par la Sentinelle et le Sorcier. Elle s'échelonne de façon multiplicative plutôt qu'additive.
+@Étalement des dégâts
+Il s'agit d'une statistique spéciale qui répartit une partie des dégâts reçus sur 3 secondes plutôt qu'instantanément, ce qui vous donne plus de temps pour vous remettre des dégâts. Elle se met à l'échelle de manière multiplicative plutôt qu'additive. Les dégâts échelonnés sont appliqués directement à la santé et ignorent les barrières de protection, etc. Veillez à adapter la régénération de votre santé en conséquence !
+@Taux de blocage et dégâts bloqués (Templiers uniquement)
+Ces statistiques indiquent vos chances de bloquer une attaque, et si vous bloquez, combien les dégâts sont atténués. Toute attaque peut être bloquée tant que vous avez un Bouclier équipé !
+@Chance de Coup Critique
+Elle indique vos chances d'obtenir un coup critique et d'infliger des dégâts supplémentaires.
+@Dégâts critiques
+Il indique l'ampleur des dégâts causés par vos coups critiques par rapport à des frappes régulières.
+@Vitesse de déplacement
+C'est la vitesse à laquelle vous pouvez courir.
+@Statistiques sur les dégâts élémentaires (physiques, feu, givre, etc.)
+Ces statistiques montrent l'ampleur des dégâts supplémentaires que vous infligez aux compétences de certains éléments.
+@Qu'est-ce que le "Dégâts Éthérés" ?
+Il s'agit d'un type de dégâts spéciaux que l'on trouve généralement sur les pouvoirs spéciaux des objets légendaires. Il ignore toutes les résistances ennemies et bénéficie de toutes vos statistiques de dégâts élémentaires additionnées. Cela signifie qu'il fonctionne pour presque tous les personnages et peut être très, très puissant !
+Remarque : les dégâts de saignement sont considérés comme éthérés dans le sens où ils ne sont pas résistibles, bien qu'ils ne bénéficient pas des pouvoirs élémentaires et ont plutôt leur propre statut de mise à l'échelle (voir Saignement%).
+@Épines
+Il s'agit d'une stat de dégâts spéciaux qui est infligée aux ennemis lorsqu'ils vous frappent. Les épines sont considérées comme des dégâts physiques, sauf indication contraire. Les dégâts causés par les épines peuvent être des critiques, mais sont considérés comme des dégâts indirects et ne nécessitent pas de Surpuissance pour passer à travers les résistances ennemies.
+@Santé par seconde
+Combien de santé vous restaurez par seconde
+@Mana par seconde
+Combien de mana vous restaurez par seconde
+@Vol de Vie
+Combien de santé vous restaurez sur un coup, minimum. Plus votre coup est fort, plus vous récupérez de points de vie. Notez que le temps de recharge de Vol de Vie est de 0,1 seconde.
+@Vol de Mana
+Combien de mana vous restituez sur un coup, minimum. Plus votre coup est important, plus vous en récupérerez. Notez que le Vol de Mana a un temps de recharge de 0,1 seconde.
+@Efficacité des potions
+L'efficacité de vos potions de soin et de mana. Augmentez ce taux et elles vous guériront davantage !
+@Chance de Contrecoup
+Quelle est votre chance par frappe de repousser vos ennemis.
+@Résistances (physiques, feu, givre, etc.)
+Ces statistiques montrent à quel point vous réduisez les dégâts causés par toutes les sources de l'élément correspondant. Notez que toutes les résistances sont plafonnées à 80%.
+@Réduction du temps de rechargement
+Combien de temps est supprimé de vos recharges de compétences. Plafonné à 90%. Échelle multiplicative plutôt qu'additive.
+@Réduction des coûts de Mana
+Le montant du coût en mana retiré lors de l'utilisation de vos compétences. Échelle multiplicative plutôt qu'additive.
+@Durée des effets
+La durée des effets positifs et des sorts. Pas de plafond, mais des échelles multiplicatives plutôt qu'additives.
+@Éfficacité Soin/Mana ramassé
+Cette statistique affecte la quantité de santé et de mana qui sera donné quand elles vous guériront.
+@Rayon de ramassage
+Cette stat affecte la distance à laquelle vous ramassez automatiquement les objets de santé, de mana et les cristaux. Vos compagnons utilisent également cette statistique lorsqu'ils ramassent des objets !
+Cette stat augmente également la portée du Radial Loot (touche par défaut : Q)
+@Cristaux trouvés
+Cette statistique augmente la quantité de cristaux que vous obtenez de toutes les sources sauf des vendeurs.
+@Vénardise
+Cette statistique augmente la probabilité de trouver plus d'objets rares et d'objets correspondant à votre classe. Il est plafonné à 999 %.
+@Rayon de lumière
+Cette statistique affecte la lumière qui entoure votre personnage.
+@Expérience obtenue
+Cette statistique affecte la quantité d'expérience que vous obtenez de toutes les sources. Cela affecte à la fois les niveaux réguliers et les niveaux de maîtrise.
+@Santé des compagnons
+Cette stat augmente directement le niveau de santé de tous vos compagnons.
+@Dégâts des compagnons
+Cette statistique affecte directement la statistique des dégâts de tous vos compagnons.
+@Passif et actif des Compagnons
+Cette stat augmente l'effet de tous les bonus passifs accordés par les compagnons, tels que les boosters de stat et les auras. Il augmente également l'effet "Utilisation" de toutes les compétences des compagnons. Par exemple, un compagnon qui a un sort dont l'effet "Utilisation" est indiqué subira produira des dégâts accrus proportionnel à cet stats.
+@Dégâts de Brûlures
+Il s'agit d'une stats de dégâts spéciaux pour les objets qui peuvent causer un effet de brûlure sur les ennemis. Il est considéré comme un dégât de Feu et est également augmenté par la stat Dégâts de Feu. REMARQUE : cette stat n'affecte pas les compétences qui provoquent des effets de Brûlure.
+@Dégâts de Saignement
+Il s'agit d'une stats de dégâts spécial pour les objets qui peuvent causer des dégâts de saignement sur les ennemis. Il est considéré comme un dégât éthéré mais n'est PAS amélioré par les statistiques élémentaires. NOTE : cette stat n'affecte pas les compétences qui provoquent des effets de saignement.
+@Saignement% augmentation/effet accru des effets de saignement
+Il s'agit d'une statistique de mise à l'échelle spéciale qui affecte tous les types d'effets de saignement en augmentant leurs niveaux de dégâts de base d'un certain pourcentage.
+@Dégâts causés par le froid
+Il s'agit d'une statistique de dégâts spéciaux pour les objets qui peuvent causer instantanément des dégâts supplémentaires dus au gel sur les ennemis. Elle est également augmentée par la stat de dégâts de Givre. REMARQUE : cette stat n'affecte pas les compétences qui provoquent des effets de froid.
+@DOT de Poison
+Il s'agit d'une statistique de dégâts spéciaux pour les objets qui peuvent causer des dégâts de poison aux ennemis. Il est considéré comme un dégât de poison et est également augmenté par la statistique Dégâts de poison. REMARQUE : cette stat n'affecte pas les compétences qui provoquent des effets de Poison.
+@Dégâts causés par la foudre en chaîne
+Il s'agit d'une statistique de dégâts spéciaux pour les objets qui peuvent causer instantanément des dégâts supplémentaires dus à la foudre sur les ennemis. Elle est également augmentée par la statistique des dégâts causés par la foudre.
+@Martèlement
+Cette stat est une stat de dégâts spéciaux pour les objets qui peuvent causer instantanément des dégâts supplémentaires Sacré sur les ennemis. Elle est également augmentée par la stat de dégâts Sacré.
+@Fléau
+Il s'agit d'une statistique de dégâts spéciaux pour les objets qui peuvent causer un effet de dégâts d'Ombre sur les ennemis. Il est considéré comme un dégât d'ombre et est également augmenté par la statistique Dégât d'ombre.
+@Dégâts des satellites
+Augmente les dégâts de tous les enchantements de type Satellite.
+@Force des Gemmes
+Augmente la puissance de toutes les pierres précieuses insérées dans votre équipement.
+@Volonté
+Réduit la durée des effets négatifs sur le joueur, tels que les debuffs.
+@Résistance aux effets de sol
+Réduit les dégâts causés spécifiquement par les effets de sol, comme la terres brûlées, les bassins empoisonnés et autres choses de ce genre.
+@Résistance aux dégâts indirects
+Diminue les dégâts causés par tout dégât indirect, tels que les saignements, les brûlures, les poisons et autres effets de debuff. Cela concerne également les dégâts causés par les épines, car les épines sont des dégâts indirects !

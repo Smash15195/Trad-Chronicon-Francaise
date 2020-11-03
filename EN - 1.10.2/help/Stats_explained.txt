@@ -34,7 +34,7 @@ Reduces damage taken from all sources, scales multiplicatively rather than addit
 @Evasion
 Evasion gives a chance to completely avoid damage from most direct hits. It is primarily used by the Warden and Warlock. Scales multiplicatively rather than additively.
 @Damage Stagger
-This is a special stat that deals some of the damage recieved over 3 seconds rather than instantly, giving you an increased time to recover from damage. Scales multiplicatively rather than additively. The staggered damage is applied directly to health and will ignore any protective barriers etc. Be sure to scale your health regeneration accordingly!
+This is a special stat that deals some of the damage received over 3 seconds rather than instantly, giving you an increased time to recover from damage. It also has a base damage reduction of 30%, so the damage that is staggered over time only actually deals 70% of what it is. Scales multiplicatively rather than additively. The staggered damage is applied directly to health and will ignore any protective barriers etc. Be sure to scale your health regeneration accordingly!
 @Block Rate and Damage Blocked (Templar Only)
 These stats indicate your chance to block an attack, and if you block, how much the damage is reduced. Any attack can be blocked as long as you have a Shield equipped!
 @Critical Hit Chance
