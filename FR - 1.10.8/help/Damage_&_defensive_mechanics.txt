@@ -1,0 +1,21 @@
+@Dégâts directs
+Les dégâts directs sont les dégâts qu'une compétence inflige à l'impact, qui à son tour peut déclencher tous vos enchantements, passifs, etc. 
+Les statistiques défensives suivantes concernent les dégâts directs :
+[list]
+Résistances
+Réduction des dégâts
+Barrières/Boucliers
+Bouclier de Mana
+Échelonnement des dégâts
+Blocage
+Évasion
+[/list]
+@Dégâts indirects
+Les dégâts indirects sont les dégâts qui proviennent d'un enchantement déclenché, d'un passif, etc. Les dégâts indirects peuvent ne déclencher aucun effet.
+Les statistiques défensives suivantes auront une incidence sur les dégâts indirects :
+Bouclier de Mana
+@Bouclier de Mana
+Il y a des effets qui drainent le mana au lieu de la santé lorsque vous faites des dégâts. Ces effets sont uniques dans la mesure où ils sont déclenchés à la fois par des dégâts directs et indirects.
+À ne pas confondre avec les barrières/boucliers ordinaires, qui apportent un complément de santé temporaire, et qui sont indiqués par une barre bleu clair sur votre barre de santé.
+@Charcutage
+Le charcutage est le moment où les ennemis tués explosent en morceaux de viande. Cela se produit lorsque le coup fatal porté à un ennemi atteint plus de la moitié de sa santé maximale. Certains enchantements, passifs et pouvoirs d'objets peuvent également provoquer le charcutage des ennemis, quels que soient les dégâts infligés.

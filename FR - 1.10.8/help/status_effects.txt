@@ -1,0 +1,21 @@
+Les joueurs ne peuvent pas perdre le contrôle de leur personnage autrement qu'en étant poussés/tirés, ou ralentis/immobilisés.
+Les ennemis peuvent être étourdis, effrayés, gelés et interrompus en plus des effets ci-dessus.
+Les ennemis robustes et les Boss résistent généralement à ces effets.
+@Contrecoup: 
+Les ennemis sont repoussés, et lorsqu'ils sont frappés, ils ne tentent pas d'attaquer, à moins qu'ils n'aient déjà animé une attaque.
+@Tirer: 
+L'inverse du Contrecoup, les mêmes règles s'appliquent.
+@Ralentir/immobiliser : 
+Le mouvement est ralenti d'un pourcentage, l'immobilisation est un effet de lenteur de 100%. 
+@Réfrigéré/Gelé:
+Techniquement, c'est la même chose que "ralentir et immobiliser", sauf qu'elle a généralement une mécanique supplémentaire basée sur le gel.
+@Étourdir: 
+Empêche toute forme d'action et met en pause tous les temps de recharge pendant la durée de l'étourdissement. Les étourdissements répétés ont des rendements décroissants !
+@Interruption: 
+Interrompt une animation d'attaque et remet la capacité interrompue à son maximum de temps de rechargement.
+@Frayeur: 
+Fait courir l'ennemi de façon erratique, mais les dégâts directs peuvent annuler l'effet.
+@Saignement:
+En plus de causer des dégâts, les effets de saignement empêchent également la régénération de la santé des ennemis.
+@Brulure:
+Outre les dégâts qu'elle inflige, la brûlure due à tous les types d'effets se propage entre les ennemis, les compagnons et les joueurs en coopération. Elles se propagent une fois par tick de dégâts à une cible aléatoire dans un rayon de 1,8 mètres. La brûlure propagée n'a qu'une efficacité de 80 % et n'affecte que les cibles non brûlantes, elle ne se rafraîchit donc pas et ne se propage pas à l'infini.

@@ -1,0 +1,12 @@
+@Que sont les compétences ?
+Les compétences sont des attaques, des soins, des buffs, des compagnons, des auras et des effets passifs qui profitent à votre personnage.
+@Il est indiqué à l'écran que j'ai un point de compétence disponible, que dois-je faire ?
+Ouvrez votre inventaire (par défaut "I" ou "back/select" sur les manettes de jeu) et allez ensuite à votre page de compétences, c'est l'icône en haut à gauche de votre inventaire avec le signe "+" clignotant. Dépensez le point pour n'importe quelle compétence que vous voulez ! N'oubliez pas que vous pouvez dépenser vos points dans tous les arbres disponibles de la manière qui vous convient. Mélangez et combinez !
+@Comment utiliser une compétence après y avoir mis des points ?
+Les compétences passives (rondes) sont utilisées automatiquement. Mais toutes les autres doivent être liées à un emplacement. Pour ce faire, cliquez avec le bouton droit de la souris sur l'icône de compétence dans la page de compétence (ou accédez à celle-ci avec votre manette de jeu et appuyez sur Y), puis sélectionnez le bouton/emplacement auquel vous souhaitez l'associer dans le menu contextuel. Maintenant, fermez la page de compétence et vous verrez la compétence sur votre écran. Il vous suffit d'appuyer sur le bouton auquel vous l'avez lié pour l'utiliser.
+@Je ne peux pas lier une compétence.
+Assurez-vous que vous avez bien dépensé des points et qu'il ne s'agit pas d'une compétence passive. Les compétences passives sont toujours actives et n'ont pas besoin d'être liées.
+@Puis-je modifier les boutons utilisés pour les compétences ?
+Oui, il suffit d'aller dans le menu Options, puis dans le menu Contrôles et enfin dans le menu Keybindings.
+@Puis-je remplacer une compétence active sélectionnée dans les cases vides ?
+Oui, il suffit de faire apparaître le menu d'assignation (clic droit ou appui sur (Y) sur la manette de jeu) et de sélectionner Swap dans le menu. Vous pouvez maintenant échanger la compétence contre n'importe laquelle des options et les points de compétence dépensés sont transférés à la nouvelle compétence.

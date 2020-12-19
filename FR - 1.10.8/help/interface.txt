@@ -1,0 +1,12 @@
+@Il fait trop sombre !
+Augmentez le paramètre "Extra Ambient Light" dans les paramètres vidéo du menu Options !
+@Je n'aime pas tout ce sang, je peux l'enlever ?
+Bien sûr, vous trouverez une option pour désactiver "Blood and Gibs" dans les paramètres de jeu du menu Options !
+@Ces tremblements d'écran sont ennuyeux, puis-je les baisser ou les arrêter ?
+Oui, vous trouverez un paramètre "Intensité du tremblement d'écran" dans les paramètres de jeu du menu Options !
+@Puis-je agrandir le texte ?
+Oui, allez dans le menu Options, puis Interface. Vous y trouverez de nombreuses options permettant de modifier différents types de tailles de texte.
+@Puis-je déplacer la minimap ?
+Oui, allez dans le menu Options et ensuite Interface pour voir les alternatives.
+@Au secours ! Il y a trop de chiffres sur l'écran !
+Il est possible de les activer ou de les désactiver de différentes manières à partir du menu Options. Allez dans le menu Interface pour le trouver.
