@@ -6,6 +6,7 @@ D:\Program Files (x86)\Steam\SteamApps\common\Chronicon\locale
  
 Collez-y le dossier FR et choisissez dans le menu language du jeu le français
 
+********************************************************************************
 
 Attention !
 Supprimez tout fichiers présents dans C:\Users\votre_utilisateur\AppData\Local\Chronicon\locale pour un fonctionnement optimal de la traduction.
