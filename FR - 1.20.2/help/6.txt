@@ -1,0 +1,19 @@
+@Comment jouer au multijoueur ?
+Il suffit de cliquer sur Multijoueur dans le menu principal et de demander à vos amis d'appuyer sur "A" sur leur manette de jeu. 
+Cela fonctionne aussi avec Steam Remote Play Together !
+@Puis-je jouer en ligne ou via le réseau local ?
+Uniquement via Steam Remote Play Together.
+@De combien de manettes de jeu ai-je besoin pour le mode multijoueur ?
+Un par personne supplémentaire, en tant que joueur on peut utiliser le clavier et la souris. Le joueur peut passer à la manette de jeu à partir du menu Options, ou en l'utilisant pour naviguer dans le menu principal.
+@Avec combien d'amis puis-je jouer en multijoueur ?
+Jusqu'à 3, soit un total de 4 joueurs.
+@Puis-je utiliser mon personnage solo dans les parties multijoueurs ?
+Oui, mais il est recommandé d'utiliser un personnage spécifique pour le mode multijoueur et un autre pour le mode solo, afin de rester synchronisé avec vos amis. Mais vous êtes libre de faire ce que vous voulez.
+@Plusieurs joueurs peuvent-ils utiliser le même personnage ?
+Non. Cela poserait des problèmes de sauvegarde car chacun aurait des objets différents, des compétences différentes, etc.
+@Si j'effectue une quête en solo, puis-je la faire en multijoueur, et vice versa ?
+Non, une quête achevée restera achevée dans les deux modes. Gardez cela à l'esprit lorsque vous jouez avec des personnages dont la progression est variable, car vous risquez de vous désynchroniser avec le scénario.
+@Que se passe-t-il si je joue avec des personnages ayant un grand écart de niveau ?
+Vous allez passer un mauvais moment. Les ennemis et le butin ne pourront pas se mettre à l'échelle correctement, alors essayez d'utiliser des personnages situés à un ou deux niveaux de difference.
+@Les points d'expérience sont-ils partagés en multijoueur ?
+Tout le monde obtient le même nombre de points d'expérience et il n'est en aucun cas réduit avec plus de joueurs. Cela s'applique aussi bien aux quêtes qu'aux victimes. Notez que le joueur doit être vivant pour gagner de l'expérience. La seule chose qui peut affecter votre gain d'expérience est la différence de niveau entre les joueurs et les monstres et les éventuels modificateurs de statut "bonus d'expérience" sur l'équipement.

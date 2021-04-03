@@ -1,0 +1,14 @@
+@Comment puis-je interagir avec des objets, des objets ou des personnages ?
+Il suffit de se tenir près d'eux et d'appuyer sur le bouton d'interaction (par défaut "A" sur la manette de jeu) ou, si vous utilisez la souris et le clavier, vous devez survoler l'objet avec votre souris et cliquer dessus (par défaut, le bouton gauche de la souris peut être remplacé par une touche du clavier ou un autre bouton de la souris ; s'il est remplacé par une touche du clavier, vous n'avez pas besoin de survoler l'objet et vous interagirez avec le plus proche).
+@Comment viser avec mes sorts ?
+En déplaçant votre souris sur un ennemi, vous en ferez la cible de votre prochain sort ou de votre prochaine attaque. La plupart des sorts et des attaques permettent également de cibler librement l'ennemi, c'est-à-dire qu'il se rendra là où se trouve votre curseur. Si vous utilisez une manette de jeu, vous changez votre direction de visée avec le stick droit, et vous visez automatiquement l'ennemi le plus proche.
+@Comment puis-je me déplacer ?
+Par défaut, vous déplacez votre personnage avec les touches WASD ou la manette gauche de la manette de jeu. Vous pouvez attribuer une nouvelle valeur aux touches du clavier dans le menu des options, mais pas à la manette de jeu. Il existe également une option de déplacement par clic.
+@Qu'est-ce que le "click-to-move" ?
+Cela vous permet de vous déplacer sans utiliser le clavier, soit en cliquant sur un endroit et votre personnage s'y rendra, soit en maintenant le bouton gauche de la souris enfoncé et votre personnage courra continuellement vers le curseur et ignorera les murs qui se trouvent sur son chemin.
+@Comment puis-je attaquer et interagir avec le click-to-move ?
+Il vous suffit de cliquer sur l'objet que vous souhaitez attaquer ou avec lequel vous souhaitez interagir. Vos compétences sont utilisées comme d'habitude avec vos raccourcis clavier. Vous pouvez maintenir la touche SHIFT pour forcer les attaques tout en utilisant le clic pour vous déplacer, au cas où vous vous trouveriez souvent à faire quelques pas involontaires pendant un combat. Vous pouvez aussi maintenir ESPACE pour forcer le déplacement, sans intéragir et attaquer ce que vous survolez avec le curseur.
+@Puis-je éteindre le grondement/vibration ?
+Oui, allez dans le menu Options, puis Contrôles et Paramètres de la manette de jeu pour les paramètres de chaque joueur.
+@Puis-je modifier la sensibilité des manettes analogiques de ma manette de jeu ?
+Oui, comme dit précédemment.
