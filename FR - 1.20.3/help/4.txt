@@ -8,7 +8,7 @@ Les enchantements sont des effets spéciaux qui sont parfois appliqués aux obje
 Les enchantements de couleur orange sont statiques, ce qui signifie qu'ils seront toujours sur cet objet spécifique. Cela signifie que l'objet disposera d'un plus grand nombre d'enchantements au total !
 @Pourquoi certains textes spéciaux sont-ils de couleur rouge ?
 Ce sont des enchantements épiques. Ce sont des effets très puissants propres à cet objet spécifique, donc vous ne pouvez pas les trouver sur un autre objet !
-@Qu'est-ce qu'un ensemble ?
+@Qu'est-ce qu'un Ensemble ?
 Les Ensembles sont des pièces d'équipement qui sont liées entre elles. En équipant plusieurs pièces d'un Ensemble, vous débloquerez les bonus de ce dernier.
 @Que sont les bonus d'Ensemble ?
 Les bonus d'Ensemble sont des effets spéciaux ou des statistiques accordés en portant les pièces correspondantes d'un ensemble. Ils peuvent être basique, comme l'amélioration d'un certain élément, ou très puissants, comme la suppression d'un rechargement d'une compétence, l'amélioration radicale des dégâts d'une compétence ou la modification complète du fonctionnement d'une mécanique.
