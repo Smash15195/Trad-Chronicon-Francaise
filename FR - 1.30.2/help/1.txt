@@ -1,0 +1,4 @@
+@Que sont les compagnons ?
+Les compagnons sont tout sujet, serviteur ou animal de compagnie obtenu par le biais d'objets, de buffs ou de compétences. Vous pouvez facilement les identifier grâce à leur barre de santé. Les Satellites, etc. ne sont pas considérés comme des compagnons.
+@Quelles sont les statistiques qui affectent mes compagnons ?
+Les dégâts de votre compagnon sont directement basés sur vos propres statistiques de dégâts, selon les pourcentages indiqués sur la compétence/objet. Leur santé augmente de la même manière que celle des ennemis et s'échelonne avec la difficulté. Cette valeur est ensuite multipliée par les statistiques "Santé du compagnon" et "Dégâts du compagnon". Les compagnons utilisent également vos statistiques de dégâts élémentaires, de résistance, de chance, de dégâts, de surpuissance, de réduction du temps de recharge, de vitesse d'attaque et de vitesse de déplacement.
