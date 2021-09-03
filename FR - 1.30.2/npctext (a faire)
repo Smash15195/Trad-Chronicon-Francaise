@@ -519,8 +519,8 @@ exp_text_eggs="The first thing we'll need to find is a preserved and fully intac
 exp_text_beasts="Once we've hatched an Egg we'll have an Ancient Beast on our hands... you'll probably never have seen anything like it! But it'll be a baby, and you'll be its momma!##So I will trust you to raise it, keep it away from harm, and don't feed it after midnight. You know, the usual stuff.##We'll eventually be able to rapidly accelerate its growth using the Incubator again, shifting the relative time many years in a matter of seconds!"
 exp_text_growth="To get our Beasts from a Hatchling to a Greater Beast we could simply wait... a few hundred years. Now, I'm a patient man, but I have things to do and places to be! So we'll simply use the Incubator here in a similar manner as when we accelerated the hatching process.##Problem is, we need to supply many years worth of sustenance so the Beast doesn't wither away as we shift the relative time! And that's where you come in.##Simply check on the Incubator what foods and other materials you need to collect to advance to the next stage!"
 [DLC_JONES]
-dlc_jones_text_artefacts="If you find enough matching pieces of an Artifact, bring them to me and I'll restore it! I'm sure you'll be able to use it to further improve your powers, somehow!"
-dlc_jones_text_arrival="How I got here? Well, I'm not really sure, kid.##I've seen and experienced some very strange things in my travels, and this is somewhere in the middle. Time and space displacement is not as uncommon as you'd think it is..."
+dlc_jones_text_artefacts="Si vous trouvez suffisamment de morceaux d'un artefact, apportez-les moi et je le restaurerai ! Je suis sûr que vous pourrez l'utiliser pour améliorer vos pouvoirs, d'une manière ou d'une autre !"
+dlc_jones_text_arrival="Comment suis-je arrivé ici ? J'en suis pas vraiment sûr, petit.## J'ai vu et vécu des choses très étranges au cours de mes voyages, et celle-ci se situe quelque part entre les deux. Le déplacement dans le temps et l'espace n'est pas aussi rare que vous le pensez..."
 [HELLFORGE]
 dlc_hf_a_name="Forgenfer"
 dlc_hf_name="Medella"
