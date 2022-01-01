@@ -13,7 +13,7 @@ vendor_name="Sarek"
 vendor_title="Potions & Equipement"
 vendor_intro="Vous avez besoin de réapprovisionner vos potions ou peut-être d'acheter un nouvel équipement ? Alors je suis votre homme ! Sarek Goods, à votre service."
 vendor_text1="Nouvel arrivage ! Jetez un coup d'oeil."
-vendor_text_crystals="Ah oui, les Cristaux. Nous les utilisons comme devise ici au Chronicon. Ce sont techniquement des fragments de mémoires qui sont rendus physiques par les pouvoirs du Chronicon.##Comment ça marche au juste, je n'en suis pas sûr. Mais je sais que la raison pour laquelle nous faisons du commerce avec, est que nous pouvons l'utiliser et essayer de forger de nouveaux mondes à partir de ces souvenirs  d'héros de jadis, perdus depuis longtemps."
+vendor_text_crystals="Ah oui, les Cristaux. Nous les utilisons comme devise ici au Chronicon. Ce sont techniquement des fragments de mémoires qui sont rendus physiques par les pouvoirs du Chronicon.##Comment ça marche au juste, j'en sais trop rien. Mais je sais que la raison pour laquelle nous faisons du commerce avec, est que nous pouvons les utiliser et essayer de forger de nouveaux mondes à partir de ces souvenirs d'héros jadis, perdus depuis longtemps."
 vendor_text_items="En effet, ça peut être difficile de comprendre au départ comment tout cela fonctionne quand on entre dans le Chronicon. Les objets que vous y trouverez ne sont techniquement pas réels, et ils disparaîtront simplement s'ils sont transportés trop loin du Chronicon.##Alors ne vous égarez pas trop loin en portant ce type d'équipement, de peur de vous retrouver nu en public !"
 vendor_text_chronicon="Eh bien, mes connaissances sont surtout axées sur les objets, les cristaux, et tout ça.##Si vous voulez en savoir plus sur le Chronicon lui-même, vous devriez essayer de parler à Korem ou, peut-être, à Tinka. Bien que Tinka ne soit pas du genre très social."
 [GUIDE]
@@ -298,7 +298,7 @@ explorer_text_relic_ruin_help="La tablette devrait se trouver dans le sous-sol d
 explorer_text_relic_ruin_end="Beau travail, mon petit ! Maintenant, si je lis correctement... hmm... oui. Notre prochain arrêt devrait être les Décharges Orque, je vous y rejoindrai.!"
 explorer_text_relic_ruin_next="Notre prochain arrêt devrait être les Décharges Orque, je vous y rejoindrai!"
 explorer_text_arena_intro="D'accord petit, alors cette tête de noeud ne nous laissera pas passer.##Malheureusement, le chemin le plus rapide pour se rendre à la Cité perdue passe par ici. La traversée de ces collines nous prendra des semaines ! Nous devons juste nous montrer dignes de passer devant le soi-disant 'Trône' en nous battant dans l'arène de la Dent de Sang.##Et par 'nous', je voulais dire vous."
-explorer_text_arena_help="L'arène de la Dent de Sang se trouve quelque part ici, dans les Décharges Orque. Trouve-la et rendez-moi fier, petit!"
+explorer_text_arena_help="L'arène de la Dent de Sang se trouve quelque part ici, dans les Décharges Orque. Trouvez-la et rendez-moi fier, petit!"
 explorer_text_arena_end="Je savais que vous en étiez capable ! Le crétin ici présent dit que nous sommes prêts à passer. Après vous."
 explorer_text_arena_next="Nous sommes prêts à accéder au Trône des Os. Après vous, mon beau!"
 explorer_text_canyon_intro="Merde, vous n'êtes pas très doué pour les négociations, hein ? J'aime ça..##Continuons d'avancer, nous devrions traverser ce canyon pour atteindre les Steppes Tortueuses. Là, nous devrions pouvoir escalader et descendre dans les Landes."
@@ -403,7 +403,7 @@ demon_hunter_deen_help="Le chien est dans les Halles de Sang. S'il vous plaît, 
 demon_hunter_deen_end="Je vous remercie. Je ne pense pas pouvoir encore passer à autre chose, je pense aller voir mon frère. J'ai entendu dire qu'il est sorti pour essayer de me venger, haha ! Je l'ai bien éduqué."
 [SEB]
 seb_name="Seb l'Agité"
-seb_restless_intro="Hé. Non, je ne vais pas te planter avec ma lance. Tu penses que tu pourrais m'aider ? Tu vois... nous sommes des centaines dans le Restless Pit, et je suis le seul à ne pas être complètement tombé dans la folie. Nous avons besoin que tu nous tues. Nous tous. Tue-nous bien, et laisse-nous nous reposer enfin en paix. Tu crois que tu peux faire ça, mon gars ?"
+seb_restless_intro="Hé. Non, je ne vais pas te planter avec ma lance. Tu penses que tu pourrais m'aider ? Tu vois... nous sommes des centaines dans le Restless Pit, et je suis le seul à ne pas être complètement tombé dans la folie. Nous avons besoin que tu nous tues. Nous tous. Fais-le et laisse-nous nous reposer enfin en paix. Tu crois que tu peux faire ça, mon gars ?"
 seb_restless_help="Tue tous mes camarades dans le Restless Pit. Crois-moi, tu leur fais une faveur."
 seb_restless_end="Merci beaucoup. Maintenant, tu dois aussi me tuer, si tu veux bien."
 [DEATH]
