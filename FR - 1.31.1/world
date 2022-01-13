@@ -114,7 +114,7 @@ wp2="La Guerre des Elfes"
 wp3="Chateau de Clairebourg"
 wp4="Les Périlleuses Terres Stériles"
 wp5="La Frontière Ultime"
-text_waypoint="Point de passage"
+text_waypoint="Relais"
 text_waypoints="Points de passage"
 [AREAS]
 area_994_name="Le Creuset de Bramley"

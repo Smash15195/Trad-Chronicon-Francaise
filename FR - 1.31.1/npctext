@@ -347,7 +347,7 @@ major_aulfere_text_save="Merci pour le sauvetage, fichons le camp d'ici !"
 major_aulfere_relation="Si je suis de la famille du commandant Marruu ? Bien sûr ! C'est ma grand-mère, célèbre depuis la guerre des Elfes. Elle a botté de vraies culs d'Elfes à l'époque. Mais, euh, ne parlez pas de ça devant Far'El'Sun, s'il vous plaît.##Au fait, comment l'avez-vous su ?"
 major_aulfere_unborn_intro="Merci encore pour le sauvetage. Nous nous sommes retrouvés dans une situation difficile. Et c'est sur le point d'être encore pire. Nous avons découvert que beaucoup de personnes tombées sont transportées vers les Halls of Shaping, où elles sont nourries ou utilisées pour une sorte d'expérience. Nous devons mettre un terme à ce qui se passe là-bas ! Le général m'a dit que vous êtes extrêmement compétents, et j'en ai été témoin de mes propres yeux, c'est pourquoi je vous confie cette mission. Allez-y, voyez ce que vous pouvez trouver et faites-moi un rapport."
 major_aulfere_unborn_help="Dirigez-vous vers les Halls of Shaping, quelque part par ici dans The Hellscape, et voyez ce que vous pouvez y trouver."
-major_aulfere_unborn_end="C'est le rapport le plus horrifiant que j'ai jamais entendu. Je suis heureux que nous ayons envoyé quelqu'un de votre compétence pour s'en occuper. C'est du bon travail. Parlez avec le général Jensen, nous nous préparons à faire une nouvelle offensive."
+major_aulfere_unborn_end="C'est le rapport le plus horrifiant que j'ai jamais entendu. Je suis heureuse que nous ayons envoyé quelqu'un de votre compétence pour s'en occuper. C'est du bon travail. Parlez avec le général Jensen, nous nous préparons à faire une nouvelle offensive."
 [GENERAL_JENSEN]
 general_jensen_name="General Jensen"
 general_jensen_self="Je suis le général Jensen, bien que vous le sachiez déjà. Je suis ici pour botter des culs de démons, et peut-être me faire quelques camarades de beuverie en cours de route. Vous croyez que Far'El'Sun a l'air d'avoir soif ? Haha !"
@@ -395,7 +395,7 @@ elder_druid_sacrifice_end="Un travail fantastique, mon ami. Tout le monde est de
 demon_hunter_semmy_name="Semmy, chasseur de démons"
 demon_hunter_semmy_dogs_intro="Enfin ! Une personne vivante dans cette fosse de la mort ! Ces maudits chiens de l'enfer ont tué mon frère, Deen ! Et ils m'ont grièvement blessé... Je ne pense pas pouvoir continuer. Mais vous pouvez me venger à ma place. Je vous en prie, vengez mon frère, et tuez ces maudits chiens !"
 demon_hunter_semmy_dogs_help="Trouvez et tuez des chiens de l'enfer de toute sorte dans le coin. S'il vous plaît, vengez mon frère !"
-demon_hunter_semmy_dogs_end="Merci ! Cela ne le ramènera pas, mais au moins nous pouvons maintenant tous les deux être en paix, sachant qu'il y a à présent moins de souffrance dans le monde."
+demon_hunter_semmy_dogs_end="Merci ! Cela ne le ramènera pas, mais au moins nous pouvons maintenant tous les deux être en paix, sachant qu'il y a maintenant moins de souffrance dans le monde."
 [DEEN]
 demon_hunter_deen_name="Deen, Chasseur de démons"
 demon_hunter_deen_dogs="Je me suis fait tuer par un gros chien récemment. Je suis surpris de la rapidité avec laquelle ce truc de fantôme fonctionne. Bref, le chien qui m'a tué est dans les Halles de Sang. C'est un chien redoutable, et il semble que j'ai une histoire inachevée avec lui. Si vous pouviez le tuer pour moi, je vous en serais très reconnaissant."
@@ -404,7 +404,7 @@ demon_hunter_deen_end="Je vous remercie. Je ne pense pas pouvoir encore passer �
 [SEB]
 seb_name="Seb l'Agité"
 seb_restless_intro="Hé. Non, je ne vais pas te planter avec ma lance. Tu penses que tu pourrais m'aider ? Tu vois... nous sommes des centaines dans le Restless Pit, et je suis le seul à ne pas être complètement tombé dans la folie. Nous avons besoin que tu nous tues. Nous tous. Fais-le et laisse-nous nous reposer enfin en paix. Tu crois que tu peux faire ça, mon gars ?"
-seb_restless_help="Tue tous mes camarades dans le Restless Pit. Crois-moi, tu leur fais une faveur."
+seb_restless_help="Tue tous mes camarades dans la Fosse Grouillante. Crois-moi, tu leur fais une faveur."
 seb_restless_end="Merci beaucoup. Maintenant, tu dois aussi me tuer, si tu veux bien."
 [DEATH]
 death_name="Silhouette Capuchonné"
