@@ -1,0 +1,16 @@
+@Pourquoi ne puis-je pas équiper certains objets ?
+Il se peut que leur niveau soit trop élevé pour que vous puissiez les utiliser ou qu'ils soient réservés à une autre classe. Vous recevrez normalement un message expliquant pourquoi vous ne pouvez pas équiper un objet lorsque vous essayez.
+@Pourquoi est-ce que je trouve des objets pour d'autres classes ?
+Vous ne trouverez que des objets de moindre rareté pour les autres classes. Les objets très rares sont toujours ceux de votre propre classe (Unique et supérieur), à l'exception des Quêtes et des drops garantis spécifiques aux monstres. Vous pouvez réduire vos chances d'obtenir des objets pour d'autres classes en améliorant votre statistique de Vénardise.
+@Qu'est-ce que les enchantements ?
+Les enchantements sont des effets spéciaux qui sont parfois appliqués aux objets déposés. Les enchanteurs peuvent vous accorder des bonus spéciaux ou augmenter les statistiques. Ils peuvent être améliorés ou remplacés dans le Chronicon, lorsque vous avez terminé la quête de Chantie.
+@Pourquoi certains enchantements sont-ils en texte orange et d'autres en blanc ?
+Les enchantements de couleur orange sont statiques, ce qui signifie qu'ils seront toujours sur cet objet spécifique. Cela signifie que l'objet disposera d'un plus grand nombre d'enchantements au total !
+@Pourquoi certains textes spéciaux sont-ils de couleur rouge ?
+Ce sont des enchantements épiques. Ce sont des effets très puissants propres à cet objet spécifique, donc vous ne pouvez pas les trouver sur un autre objet !
+@Qu'est-ce qu'un Ensemble ?
+Les Ensembles sont des pièces d'équipement qui sont liées entre elles. En équipant plusieurs pièces d'un Ensemble, vous débloquerez les bonus de ce dernier.
+@Que sont les bonus d'Ensemble ?
+Les bonus d'Ensemble sont des effets spéciaux ou des statistiques accordés en portant les pièces correspondantes d'un ensemble. Ils peuvent être basique, comme l'amélioration d'un certain élément, ou très puissants, comme la suppression d'un rechargement d'une compétence, l'amélioration radicale des dégâts d'une compétence ou la modification complète du fonctionnement d'une mécanique.
+@Quels sont les éléments qui font partie des Ensembles ?
+Les objets d'Ensemble commencent à apparaître avec la rareté Unique. Ils peuvent être trouvés à partir du niveau 10. Les Ensembles de rareté Légendaires peuvent être trouvés à partir du niveau 30 et plus. Gardez en tête que les objets d'Ensemble sont plutôt rares !
